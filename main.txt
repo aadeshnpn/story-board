@@ -2,3 +2,22 @@ Far away in the future......In a darken and strange room is a robot with some pa
 how he is in that room but he tries all the possible methods and technique to escape the room.
 
 So our movie will be based in a room with a robot trying to get free from the room.
+
+Story Plot:
+The movie starts with a bang and a big noise of a explosion but the camera is set to the robot in a strange room.
+Every minute or so we hear sounds of explosion and the room shaking but we don't know whats actually is going on outside.
+In the mean time the robot is functional but is damaged too much.(The year is 3012 and nanotech is fully evolved 
+the robot was the first highy intelligent nanobot and that is only the information the viewers will know).The robot
+start its repair sequence and all of the sudden all its parts start to get repaired consuming the object of the room.
+(The robot is capable of converting object into a raw material for its parts).After recovery is complete robot attempts
+to get out of the room.At first it tries its navigator but somehow its not working.(Need to work on the details of
+robot attempts to escape).Finally the robot is out of the room and he finds out that the room was very deep 
+under the earth crust and quickly reaches to the groun and discovers that the earth is ruined and the explosion noise
+was of astroid hitting the earth.Suddenly he recives the message(need a logic on how) that to escape the earth using a
+space capsule just opposite the room where he was locked.He uses his full speed to reach the room but a spark from the
+astroid flame destroyes the robot.
+At last scene after the destruction(As we know that robot is nanotech and capable of fixing itself) we focus camera on
+a small remaining piece of robot and the consumption of the material around it.
+
+End of the movie.
+After the story is approved we need to work on the details.
